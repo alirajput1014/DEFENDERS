@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 4ddab7275101aeb4b9f37067449b9894
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_boli
+    second: {fileID: 2800000, guid: d249b853bf0e2c741a6c2b46f5770df2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_bu1
+    second: {fileID: 2800000, guid: af3f7ececce36354d83247069c4c2faf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_bu2
+    second: {fileID: 2800000, guid: 24297e6d12d20a04cb702615c69175c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_bu3
+    second: {fileID: 2800000, guid: f30f347a4f4adea4b88f3e0bc0f3b4fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_bu4
+    second: {fileID: 2800000, guid: 4de79d078e36398478f42a566fcda979, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_caodi
+    second: {fileID: 2800000, guid: fde27fb4f60d4124594330c11d933249, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_hongse
+    second: {fileID: 2800000, guid: aaea94336936f9c438f5d666ffe36ce2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_huangse
+    second: {fileID: 2800000, guid: f2d71c26d9cd77d4a968080df47edcbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_lanse
+    second: {fileID: 2800000, guid: ac1cb0c81b0cad940bf51e50215d80e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_lingxingkuai
+    second: {fileID: 2800000, guid: dfd0aedba0da3164cb4bd66430660465, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_menkuang
+    second: {fileID: 2800000, guid: f59de57e87062eb44a167a84e814b6ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_nianlun
+    second: {fileID: 2800000, guid: 9de243379a7ce2f45b8e334f7b5581de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_nianlun2
+    second: {fileID: 2800000, guid: 72e557a6f6c40f548ac927c0817c931e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_shuye1
+    second: {fileID: 2800000, guid: 858fa2f7005b71b4cbec86a866f4815a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_shuye2
+    second: {fileID: 2800000, guid: 237cb3968d0e2dd4990a07f4539e127a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_shuye3
+    second: {fileID: 2800000, guid: 102af1b6fccfad243b3bf56d1dbd5783, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_shuye4
+    second: {fileID: 2800000, guid: a3365eeeb49df3e47a7f65cf997d372c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st1
+    second: {fileID: 2800000, guid: b8cf683dbfb48784b981ab497cba15e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st10
+    second: {fileID: 2800000, guid: 57680ad7044e6d84c86c229b3d87a438, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st11
+    second: {fileID: 2800000, guid: e920ca4b42510d942ba77075ddb07888, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st12
+    second: {fileID: 2800000, guid: c66f3ac87677bcc4b8278278a0789e99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st2
+    second: {fileID: 2800000, guid: 8b727b400af8dd24bad749376569d0fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st3
+    second: {fileID: 2800000, guid: ca4229087c3c00547bc9a2dc0eaa6847, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st4
+    second: {fileID: 2800000, guid: 0c1a515cedbb49a42992d72aa231a40a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st5
+    second: {fileID: 2800000, guid: 43cd5629c4143ee4b9e7f9fe4bfde800, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st6
+    second: {fileID: 2800000, guid: 0b4c06bc2aeafe8479e6b1fa50777180, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st7
+    second: {fileID: 2800000, guid: 0e2ca2dedbc67e941b34757a4223d0a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st8
+    second: {fileID: 2800000, guid: 8da484ed47bdf4d4b9c697a946af9ac8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_st9
+    second: {fileID: 2800000, guid: 9bec8054719ca804fb04ce5800678e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_tajian
+    second: {fileID: 2800000, guid: e530c469cf26adf42ba80ba6348b178d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wa1
+    second: {fileID: 2800000, guid: 132d37e2d9b99f54e845cf11e30a0d36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wa2
+    second: {fileID: 2800000, guid: c09e799943182ca4298845fa7a09d8c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wall1
+    second: {fileID: 2800000, guid: 526039f030f44cb4ba4c169909e348fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wood
+    second: {fileID: 2800000, guid: bb982d8bfa3481142b8004e06efcc70f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wood2
+    second: {fileID: 2800000, guid: 58d14dea51fc1a340a00df339ee62688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wood3
+    second: {fileID: 2800000, guid: b480beedee041634cae197eb0de36348, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wood4
+    second: {fileID: 2800000, guid: 7a467cd0843fabf4bbaf669ac3149b10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_wood5
+    second: {fileID: 2800000, guid: 18b5adeee77b3a040a4e8ec1753da6f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_xingxing
+    second: {fileID: 2800000, guid: 743bf65fe4e46af4da66812ccf73f68e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_zhuangshi
+    second: {fileID: 2800000, guid: 12e4366b232741e4fb94d695b6f07fd2, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
