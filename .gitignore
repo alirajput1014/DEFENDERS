@@ -58,3 +58,4 @@ webgl_sharing/
 
 # Loose scripts outside Assets are not compiled by Unity
 /*.cs
+webgl_sharing
