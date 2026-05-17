@@ -47,3 +47,14 @@ Desktop.ini
 # Crash and diagnostic output
 *.stackdump
 crashlytics-build.properties
+
+# Local IDE helpers
+.vsconfig
+
+# Exported archives and generated web builds
+*.zip
+[Ww]eb[Gg][Ll] [Bb]uilds/
+webgl_sharing/
+
+# Loose scripts outside Assets are not compiled by Unity
+/*.cs
