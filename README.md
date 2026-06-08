@@ -3,6 +3,13 @@
 A robust and modular 3D Tower Defense game built in Unity, featuring a classic top-down isometric camera angle inspired by games like *Plants vs. Zombies*. This project implements core tactical defense mechanics, including 3D grid layout management, tile-based unit placement, strategic wave spawning, and unique projectile/attack behaviors for different defensive units.
 
 ---
+## 🎬 Gameplay Demo
+
+[![Watch Gameplay Demo](https://drive.google.com/thumbnail?id=1rA7eTO2NuR6_yPRoD_nkDuUi1khUkt82&sz=w800)](https://drive.google.com/file/d/1rA7eTO2NuR6_yPRoD_nkDuUi1khUkt82/view?usp=sharing)
+
+> *Click the thumbnail above to watch the full gameplay demo.*
+
+---
 
 ## 🚀 Key Features
 
